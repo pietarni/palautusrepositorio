@@ -8,4 +8,4 @@ Tavoitteena on selvittää, mitä kannattaa jatkaa tai muuttaa tulevaa varten. "
 Kommenttien perusteella tehdään konkreettisia muutoksia.
 
 Toinen tapa on "Glad, Sad, Mad". Tässä sprintin tapahtumat luokitellaan iloisiksi, harmillisiksi tai turhauttaviksi.
-Tämä auttaa tiimiä hahmottamaan onnistumisia ja tunnistamaan, missä on kehitettävää. Tiimi äänestää tärkeimmistä havaituista aiheista, ja keskustelee ratkaisuista.
+Tämä auttaa tiimiä hahmottamaan onnistumisia ja tunnistamaan, missä on kehitettävää. Tiimi äänestää tärkeimmistä havaituista aiheista, ja keskustelee ratkaisuista. test
